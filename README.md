@@ -1,1 +1,1 @@
-# sparql-ruby
+# sparql-param-rb
